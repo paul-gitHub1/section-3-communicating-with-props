@@ -1,3 +1,3 @@
-# Communication with props
+# Communicating with props
 
 ## > using {props.children}
